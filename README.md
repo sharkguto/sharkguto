@@ -7,6 +7,7 @@ I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open sou
 
 [![sharkguto's github stats](https://github-readme-stats.vercel.app/api?username=sharkguto&show_icons=true)](https://github.com/sharkguto/sharkguto)
 
+[![Github](https://img.shields.io/github/followers/sharkguto?label=Follow&style=social)](https://github.com/sharkguto/sharkguto)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharkguto&label=Profile%20views&color=0e75b6&style=flat" alt="sharkguto" /> </p>
 
