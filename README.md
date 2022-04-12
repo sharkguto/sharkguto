@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Freitas, know as sharkguto (a.k.a Jaspion)</h1>
 
-## I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open source and Linux.
+## I'm a Solutions/Cloud Architect using Python mainly , bash , Rust , PostgreSQL , love open source and Linux.
 
 
 [![sharkguto's github stats](https://github-readme-stats.vercel.app/api?username=sharkguto&show_icons=true)](https://github.com/sharkguto/sharkguto)
