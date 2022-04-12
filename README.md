@@ -1,7 +1,7 @@
 
 ## 👋 What's up dude?? I'm sharkguto, surfing in the seas of zeros and ones...
 
-I'm a Solutions/Cloud Architect and use Python mainly , Rust for tunning & love open source.
+I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open source and Linux.
 
 <!-- **[:heart: Sponsor me](https://sponsor.long2ice.io)** -->
 
