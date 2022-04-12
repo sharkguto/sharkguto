@@ -1,9 +1,7 @@
+<h1 align="center">Hi 👋, I'm Gustavo Freitas, know as sharkguto (a.k.a Jaspion)</h1>
 
-## 👋 What's up dude?? I'm sharkguto, surfing in the seas of zeros and ones...
+## I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open source and Linux.
 
-I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open source and Linux.
-
-<!-- **[:heart: Sponsor me](https://sponsor.long2ice.io)** -->
 
 [![sharkguto's github stats](https://github-readme-stats.vercel.app/api?username=sharkguto&show_icons=true)](https://github.com/sharkguto/sharkguto)
 
@@ -31,6 +29,9 @@ I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open sou
 
 [![Top languages]()](https://github.com/sharkguto/sharkguto)
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sharkguto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharkguto" /></a></p><br><br>
 
 
 <!--
