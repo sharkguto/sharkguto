@@ -1,15 +1,13 @@
 
-## 👋 What's up dude?? I'm sharkguto surfing in the seas of zeros and ones...
+## 👋 What's up dude?? I'm sharkguto, surfing in the seas of zeros and ones...
 
-I'm a backend engineer and use Python & Go mainly, love open source.
+I'm a Solutions/Cloud Architect and use Python mainly , Rust for tunning & love open source.
 
 <!-- **[:heart: Sponsor me](https://sponsor.long2ice.io)** -->
 
 [![sharkguto's github stats](https://github-readme-stats.vercel.app/api?username=sharkguto&show_icons=true)](https://github.com/sharkguto/sharkguto)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkguto&layout=compact&card_width=445)](https://github.com/sharkguto/sharkguto)
-
-## My Projects
 
 
 
