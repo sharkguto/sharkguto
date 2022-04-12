@@ -29,7 +29,7 @@ I'm a Solutions/Cloud Architect using Python mainly, bash , Rust , love open sou
 
 
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkguto&layout=compact&card_width=445)](https://github.com/sharkguto/sharkguto)
+[![Top languages]()](https://github.com/sharkguto/sharkguto)
 
 
 
