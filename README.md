@@ -27,7 +27,9 @@
 
 
 
-[![Top languages]()](https://github.com/sharkguto/sharkguto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkguto&theme=tokyonight)](https://github.com/sharkguto)
+
+
 
 
 <h3 align="left">Support:</h3>
